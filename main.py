@@ -53,4 +53,4 @@ async def recycle(ctx):
     await ctx.send(file="recycle.jpg")
 
 
-bot.run("MTEzMDUwOTg2MTI0ODA0NTA5MA.G6cDSP.APlR_khn8QBmDZseQAKfeiUY2UQsyJMjKA-Eqg")
+bot.run("token")
